@@ -22,6 +22,5 @@
 
 ## Авторы
 
-* **Gleb Kolbin** - *08ip213* - [PurpleBooth](https://github.com/PurpleBooth)
+* **GK inc.** - [PurpleBooth](https://github.com/NedQ17)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
