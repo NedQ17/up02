@@ -22,5 +22,5 @@
 
 ## Авторы
 
-* **GK inc.** - [PurpleBooth](https://github.com/NedQ17)
+* **GK inc.** - [NedQ17](https://github.com/NedQ17)
 
