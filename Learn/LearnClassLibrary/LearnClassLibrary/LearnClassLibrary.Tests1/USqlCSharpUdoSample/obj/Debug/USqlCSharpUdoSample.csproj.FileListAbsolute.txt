@@ -1,0 +1,10 @@
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\bin\Debug\USqlCSharpUdoSample.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\bin\Debug\USqlCSharpUdoSample.pdb
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\bin\Debug\Microsoft.Analytics.Types.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\obj\Debug\USqlCSharpUdoSample.csproj.AssemblyReference.cache
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\obj\Debug\USqlCSharpUdoSample.csproj.CoreCompileInputs.cache
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\obj\Debug\USqlCSha.3E5A3A19.Up2Date
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\obj\Debug\USqlCSharpUdoSample.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary.Tests1\USqlCSharpUdoSample\obj\Debug\USqlCSharpUdoSample.pdb

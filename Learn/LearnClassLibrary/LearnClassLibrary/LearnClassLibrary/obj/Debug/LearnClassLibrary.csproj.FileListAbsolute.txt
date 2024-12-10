@@ -1,0 +1,10 @@
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\bin\Debug\LearnClassLibrary.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\bin\Debug\LearnClassLibrary.pdb
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.AssemblyReference.cache
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.CoreCompileInputs.cache
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnCla.EAF8CFF3.Up2Date
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.dll
+E:\Документы-stud\08ip213\УП02\day1\Материалы ДЭ\Learn\LearnClassLibrary\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.pdb
